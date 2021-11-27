@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header-menu {
+    height: 545px;
+    background-color: #eeee;
+
+}
+
+.menu-top-logo {
+    margin-top: 50px;
+    padding-left: 140px;
+}
+
+.items-menu {
+
+    display: flex;
+    margin-left: 500px;
+    margin-top: -40px;
+    justify-content:right;
+    
+
+    font-family: Oswald;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.items-menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.item-menu1, .item-menu2, .item-menu3, .item-menu4{
+    padding-left: 50px;
+}
+.item-menu5 {
+    padding-left: 250px;
+    margin-right: 140px;
+
+}
+
+.item-menu5 img{
+    padding-right: 20px;
+
+}
+
+
+
+.menu-slide img {
+    margin-left: 660px;
+    margin-top: 23px;
+}
+
+.text-slide {
+    width: 360px;
+
+    margin-top: -400px;
+    padding-left: 140px;
+
+}
+
+.menu-slide h1 {
+
+    font-family: Oswald;
+    font-size: 50px;
+}
+
+.text-slide span{
+    font-family: Raleway;
+    color: gray;
+    font-weight: bold;
+}
+
+.menu-slide button {
+    width: 240px;
+    height: 50px;
+    background-color: #ff6666;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+    margin-top: 50px;
+    margin-left: 140px;
+
+    font-family: Oswald;
+    color: #ffff;
+    font-size: 20px;
+}
